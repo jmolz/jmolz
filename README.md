@@ -44,7 +44,7 @@ I developed **PICE** (Plan → Implement → Contract → Evaluate) — a struct
 - 🟩 **7,100+** contributions in the last 12 months
 - 🚀 **15+** products built from zero to production
 - 🏗️ **4** companies co-founded with technical leadership
-- 📦 **154** commits on Ready Text alone
+- 📦 **2,900+** commits on Alpaka alone
 
 ---
 
