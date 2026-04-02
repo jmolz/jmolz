@@ -35,7 +35,13 @@ I developed **PICE** (Plan → Implement → Contract → Evaluate) — a struct
 
 ### Tech stack
 
-`TypeScript` `Python` `Next.js` `FastAPI` `Laravel` `Django` `React` `Docker` `PostgreSQL` `Supabase` `Redis` `MCP Servers` `Claude API` `Multi-Agent Architectures` `LLM Orchestration` `scikit-learn` `Computer Vision`
+**Languages & Frameworks:** `TypeScript` `Python` `Next.js` `FastAPI` `Laravel` `Django` `React`
+
+**AI/ML:** `Claude API` `OpenAI API` `Multi-Agent Architectures` `MCP Servers` `LLM Orchestration` `RAG Pipelines` `Embedding Models` `Rerankers` `scikit-learn` `Computer Vision`
+
+**Model Deployment & Infrastructure:** `Self-Hosted Open-Weight Models` `Quantized Models for High-Throughput ETL` `Full-Weight Models for Deep Analysis` `RunPod GPU` `Docker-Based Model Serving` `Secure Closed-Environment Inference`
+
+**Infrastructure:** `Docker` `PostgreSQL` `Supabase` `Redis` `CI/CD`
 
 ---
 
