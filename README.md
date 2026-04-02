@@ -59,4 +59,5 @@ I developed **PICE** (Plan → Implement → Contract → Evaluate) — a struct
 15 years of B2B SaaS leadership (VP/SVP/CSO) at companies including 24/7 Software and CleanAir.ai — which means I don't just build AI systems, I understand why they matter and how they create business value.
 
 **MBA** — Nova Southeastern University
+
 **BSBA, Entrepreneurship** — University of Central Florida
