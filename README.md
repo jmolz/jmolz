@@ -1,28 +1,56 @@
-# Jacob Molz
+# Hey, I'm Jacob 🤙
 
-**AI Product Engineer & Technical Founder**
+**AI Product Engineer & Technical Founder** — I build AI-powered products from zero to production.
 
-I build AI-powered products from zero to production. 15+ shipped products,
-7,100+ contributions in the last 12 months.
+15+ shipped products. 7,100+ GitHub contributions in the last 12 months. Building with AI since before ChatGPT.
 
-## What I'm building
+---
 
-🌱 **[Bloom](https://meetbloom.io)** — AI-powered revenue discovery for
-service businesses. Satellite measurement, AI proposals, agentic email
-personalization. TypeScript/Next.js.
+### What I'm building
 
-🏢 **[Alpaka](https://alpaka.ai)** — Value chain intelligence for real estate. Scope 3 carbon
-emissions ML modeling, supply chain optimization. Python ML + TypeScript.
+🌱 **[Bloom](https://meetbloom.io)** — AI-powered revenue discovery for service businesses. Satellite measurement, AI proposals, Bloom Intelligence email personalization. *TypeScript/Next.js*
 
-## Featured open-source projects
+🏢 **[Alpaka](https://github.com/jmolz)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
 
-*(you'll add these as you publish them in weeks 2-6)*
+⚖️ **[Case Pilot](https://github.com/jmolz/case-pilot)** — Open-source AI agent that monitors court cases on Tyler Tech, tracks deadlines, analyzes legal theory, and drafts filings autonomously. *Python, Claude API*
 
-## Tech stack
+📱 **[Ready Text](https://ready-text.com)** — Waitlist texting & customer alert platform for restaurants and businesses. Live SaaS with paying customers. *Laravel/PHP*
 
-TypeScript · Python · Next.js · FastAPI · PyTorch · Docker · PostgreSQL ·
-Supabase · MCP Servers · Multi-Agent Architectures · LLM Orchestration
+🔧 **Salesforge AI** — Internal AI sales intelligence platform at REVGEN. Agentic workflows, CRM integration, automated outreach. *TypeScript*
 
-## Writing
+---
 
-*(link to your blog/articles as you publish them)*
+### How I build: The PICE Framework
+
+I developed **PICE** (Plan → Implement → Contract → Evaluate) — a structured methodology for AI-assisted engineering that uses:
+
+- **Contracts** between human and AI defining "done" before any code is generated
+- **Dual-model adversarial evaluation** — Claude evaluates contract compliance, GPT challenges the design approach. Different model families = different blind spots.
+- **WISC context management** — Write, Isolate, Select, Compress — for managing the most precious resource in AI-assisted development
+- **Tiered evaluation rigor** scaled to change risk
+
+→ **[Read the framework](https://github.com/jmolz/pice-framework)** *(coming soon)*
+
+---
+
+### Tech stack
+
+`TypeScript` `Python` `Next.js` `FastAPI` `Laravel` `Django` `React` `Docker` `PostgreSQL` `Supabase` `Redis` `MCP Servers` `Claude API` `Multi-Agent Architectures` `LLM Orchestration` `scikit-learn` `Computer Vision`
+
+---
+
+### The numbers
+
+- 🟩 **7,100+** contributions in the last 12 months
+- 🚀 **15+** products built from zero to production
+- 🏗️ **4** companies co-founded with technical leadership
+- 📦 **154** commits on Ready Text alone
+
+---
+
+### Previously
+
+15 years of B2B SaaS leadership (VP/SVP/CSO) at companies including 24/7 Software and CleanAir.ai — which means I don't just build AI systems, I understand why they matter and how they create business value.
+
+**MBA** — Nova Southeastern University
+**BSBA, Entrepreneurship** — University of Central Florida
