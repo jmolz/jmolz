@@ -10,7 +10,7 @@
 
 🌱 **[Bloom](https://meetbloom.io)** — AI-powered revenue discovery for service businesses. Satellite measurement, AI proposals, Bloom Intelligence email personalization. *TypeScript/Next.js*
 
-🏢 **[Alpaka](https://github.com/jmolz)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
+🏢 **[Alpaka](https://alpaka.ai)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
 
 ⚖️ **[Case Pilot](https://github.com/jmolz/case-pilot)** — Open-source AI agent that monitors court cases on Tyler Tech, tracks deadlines, analyzes legal theory, and drafts filings autonomously. *Python, Claude API*
 
