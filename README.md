@@ -29,7 +29,7 @@ I developed **PICE** (Plan → Implement → Contract-Evaluate) — a structured
 - **WISC context management** — Write, Isolate, Select, Compress — for managing the most precious resource in AI-assisted development
 - **Tiered evaluation rigor** scaled to change risk
 
-→ **[Read the framework](https://github.com/jmolz/pice-framework)** *(coming soon)*
+→ **[Read the framework](https://github.com/jmolz/pice-framework)**
 
 ---
 
