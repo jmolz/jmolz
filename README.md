@@ -2,7 +2,7 @@
 
 **AI Product Engineer & Technical Founder** — I build AI-powered products from zero to production.
 
-15+ shipped products. 7,100+ GitHub contributions in the last 12 months. Building with AI since before ChatGPT.
+15+ shipped products. 7,100+ GitHub contributions in the last 12 months.
 
 ---
 
