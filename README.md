@@ -22,7 +22,7 @@
 
 ### How I build: The PICE Framework
 
-I developed **PICE** (Plan → Implement → Contract → Evaluate) — a structured methodology for AI-assisted engineering that uses:
+I developed **PICE** (Plan → Implement → Contract-Evaluate) — a structured methodology for AI-assisted engineering that uses:
 
 - **Contracts** between human and AI defining "done" before any code is generated
 - **Dual-model adversarial evaluation** — Claude evaluates contract compliance, GPT challenges the design approach. Different model families = different blind spots.
