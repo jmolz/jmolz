@@ -16,7 +16,7 @@
 
 📱 **[Ready Text](https://ready-text.com)** — Waitlist texting & customer alert platform for restaurants and businesses. Live SaaS with paying customers. *Laravel/PHP*
 
-🔧 **Salesforge AI** — Internal AI sales intelligence platform at REVGEN. Agentic workflows, CRM integration, automated outreach. *TypeScript*
+🔧 **[MCP-Guard](https://github.com/jmolz/mcp-guard)** — Security proxy daemon for MCP servers: auth, rate limiting, PII detection, permissions, audit logging. *TypeScript*
 
 ---
 
