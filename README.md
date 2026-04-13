@@ -12,24 +12,24 @@
 
 🏢 **[Alpaka](https://alpaka.ai)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
 
-⚖️ **[Case Pilot](https://github.com/jmolz/case-pilot)** — Open-source AI agent that monitors court cases on Tyler Tech, tracks deadlines, analyzes legal theory, and drafts filings autonomously. *Python, Claude API*
+🧠 **[m0lz.02](https://github.com/jmolz/m0lz.02)** — Structured AI coding workflow orchestrator. Plan → Implement → Contract-Evaluate with dual-model adversarial evaluation. *Rust / TypeScript*
+
+🛡️ **[m0lz.03](https://github.com/jmolz/m0lz.03)** — Security proxy daemon for MCP servers: auth, rate limiting, PII detection, permissions, audit logging. *TypeScript*
+
+⚖️ **[m0lz.04](https://github.com/jmolz/m0lz.04)** — AI-powered legal case management for pro se litigants. Court filing monitor, deadline tracker, citation verification, red team analysis. *JavaScript, Claude API*
 
 📱 **[Ready Text](https://ready-text.com)** — Waitlist texting & customer alert platform for restaurants and businesses. Live SaaS with paying customers. *Laravel/PHP*
 
-🛡️ **[MCP-Guard](https://github.com/jmolz/mcp-guard)** — Security proxy daemon for MCP servers: auth, rate limiting, PII detection, permissions, audit logging. *TypeScript*
-
 ---
 
-### How I build: The PICE Framework
+### How I build
 
-I developed **PICE** (Plan → Implement → Contract-Evaluate) — a structured methodology for AI-assisted engineering that uses:
+m0lz.02 implements the **PICE methodology** (Plan → Implement → Contract-Evaluate) — a structured approach to AI-assisted engineering that uses:
 
 - **Contracts** between human and AI defining "done" before any code is generated
 - **Dual-model adversarial evaluation** — Claude evaluates contract compliance, GPT challenges the design approach. Different model families = different blind spots.
 - **WISC context management** — Write, Isolate, Select, Compress — for managing the most precious resource in AI-assisted development
 - **Tiered evaluation rigor** scaled to change risk
-
-→ **[Read the framework](https://github.com/jmolz/pice-framework)**
 
 ---
 
