@@ -1,4 +1,4 @@
-# Hey, I'm Jacob 🤙
+# Hey, I'm Jacob
 
 **AI Product Engineer & Technical Founder** — I build AI-powered products from zero to production.
 
@@ -6,25 +6,33 @@
 
 ---
 
-### What I'm building
+### Public projects
 
-🌱 **[Bloom](https://meetbloom.io)** — AI-powered revenue discovery for service businesses. Satellite measurement, AI proposals, Bloom Intelligence email personalization. *TypeScript/Next.js*
+**[m0lz.00](https://m0lz.dev)** — Monochrome developer blog & portfolio. Static-only Next.js 16 site with MDX content pipeline, generative branch mark identity system, and dark/light theme. *Next.js / TypeScript*
 
-🏢 **[Alpaka](https://alpaka.ai)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
+**[m0lz.01](https://github.com/jmolz/m0lz.01)** — Automated content publishing agent. Commits MDX posts to m0lz.00, cross-posts to Medium and Dev.to. *TypeScript*
 
-🧠 **[m0lz.02](https://github.com/jmolz/m0lz.02)** — Structured AI coding workflow orchestrator. Plan → Implement → Contract-Evaluate with dual-model adversarial evaluation. *Rust / TypeScript*
+**[m0lz.02](https://github.com/jmolz/m0lz.02)** — Structured AI coding workflow orchestrator. Plan, Implement, Contract-Evaluate with dual-model adversarial evaluation, WISC context management, and tiered verification. *Rust / TypeScript*
 
-🛡️ **[m0lz.03](https://github.com/jmolz/m0lz.03)** — Security proxy daemon for MCP servers: auth, rate limiting, PII detection, permissions, audit logging. *TypeScript*
+**[m0lz.03](https://github.com/jmolz/m0lz.03)** — Security proxy daemon for MCP servers. Authentication, rate limiting, PII detection, permission scoping, audit logging. 97% detection rate across 7,095 attack scenarios. *TypeScript*
 
-⚖️ **[m0lz.04](https://github.com/jmolz/m0lz.04)** — AI-powered legal case management for pro se litigants. Court filing monitor, deadline tracker, citation verification, red team analysis. *JavaScript, Claude API*
+**[m0lz.04](https://github.com/jmolz/m0lz.04)** — AI-powered legal case management for pro se litigants. Court filing monitor, deadline tracker, citation verification, red team analysis, and DOCX export. Local-first, privacy-focused. *JavaScript / Claude API*
 
-📱 **[Ready Text](https://ready-text.com)** — Waitlist texting & customer alert platform for restaurants and businesses. Live SaaS with paying customers. *Laravel/PHP*
+**[Investor Matchmaker](https://github.com/Raleigh-Durham-Startup-Week/investor-matchmaker)** — Investor-founder meeting scheduler for Startup Week. Greedy bipartite matching across investment type, business type, and sector with Excel I/O. *Python*
+
+### Private projects
+
+**[Bloom](https://meetbloom.io)** — AI-powered revenue discovery for service businesses. Satellite measurement, AI proposals, Bloom Intelligence email personalization. *TypeScript/Next.js*
+
+**[Alpaka](https://alpaka.ai)** — Value chain intelligence for real estate. Scope 3 carbon emissions ML modeling, supply chain optimization, vendor management. *Python ML + TypeScript*
+
+**[Ready Text](https://ready-text.com)** — Waitlist texting & customer alert platform for restaurants and businesses. Live SaaS with paying customers. *Laravel/PHP*
 
 ---
 
-### How I build
+### How I build: m0lz.02
 
-m0lz.02 implements the **PICE methodology** (Plan → Implement → Contract-Evaluate) — a structured approach to AI-assisted engineering that uses:
+m0lz.02 implements Plan, Implement, Contract-Evaluate — a structured methodology for AI-assisted engineering that uses:
 
 - **Contracts** between human and AI defining "done" before any code is generated
 - **Dual-model adversarial evaluation** — Claude evaluates contract compliance, GPT challenges the design approach. Different model families = different blind spots.
@@ -47,10 +55,10 @@ m0lz.02 implements the **PICE methodology** (Plan → Implement → Contract-Eva
 
 ### The numbers
 
-- 🟩 **7,100+** contributions in the last 12 months
-- 🚀 **15+** products built from zero to production
-- 🏗️ **4** companies co-founded with technical leadership
-- 📦 **2,900+** commits on Alpaka alone
+- **7,100+** contributions in the last 12 months
+- **15+** products built from zero to production
+- **4** companies co-founded with technical leadership
+- **2,900+** commits on Alpaka alone
 
 ---
 
