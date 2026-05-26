@@ -36,20 +36,6 @@
 
 ### How to navigate my work
 
-```mermaid
-flowchart LR
-  site["m0lz.00<br/>m0lz.dev"]
-  pipeline["m0lz.01<br/>Content pipeline"]
-  workflow["m0lz.02<br/>AI coding workflow"]
-  security["m0lz.03<br/>MCP security"]
-  legal["m0lz.04<br/>Legal workflow"]
-
-  pipeline --> site
-  workflow --> pipeline
-  security --> workflow
-  legal --> pipeline
-```
-
 **[m0lz.00](https://github.com/jmolz/m0lz.00)** is the canonical site and writing hub: [m0lz.dev](https://m0lz.dev).
 
 **[m0lz.01](https://github.com/jmolz/m0lz.01)** is the local idea-to-distribution pipeline that researches, drafts, evaluates, publishes, and distributes technical content.
