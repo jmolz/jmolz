@@ -17,6 +17,14 @@
 
 ### Recent open source work
 
+**In review**
+
+**[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)** - Rust tooling for generating least-privilege IAM policies.
+
+- [awslabs/iam-policy-autopilot#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) - made the policy-generation resource cutoff configurable across CLI, MCP, and library paths.
+
+**Recently merged**
+
 **[TrustGraph](https://github.com/trustgraph-ai/trustgraph)** - Python AI infrastructure and knowledge-graph tooling.
 
 - [trustgraph-ai/trustgraph#955](https://github.com/trustgraph-ai/trustgraph/pull/955) - tightened WebSocket client exception handling and added regression coverage.
@@ -25,7 +33,6 @@
 
 **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)** - Rust tooling for generating least-privilege IAM policies.
 
-- [awslabs/iam-policy-autopilot#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) - made the policy-generation resource cutoff configurable across CLI, MCP, and library paths.
 - [awslabs/iam-policy-autopilot#214](https://github.com/awslabs/iam-policy-autopilot/pull/214) - added pre-commit hooks and local validation documentation.
 
 **[Harper](https://github.com/Automattic/harper)** - Rust grammar and spell-checking engine.
