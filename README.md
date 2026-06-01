@@ -1,6 +1,6 @@
 # Hey, I'm Jacob
 
-**AI Product Engineer & Software Engineer** - I build AI systems that move from prototype to production: agentic workflows, evaluation pipelines, product automation, developer tooling, and applied SaaS.
+**AI Product Engineer & Software Engineer** - I build AI systems that move from prototype to production: model runtimes, agentic workflows, evaluation pipelines, product automation, developer tooling, and applied SaaS.
 
 15+ shipped products. 7,100+ GitHub contributions in the last 12 months.
 
@@ -9,7 +9,7 @@
 ### Current focus
 
 - **AI developer tools** that make AI-assisted engineering more rigorous, reviewable, and repeatable.
-- **Production AI systems** for revenue operations, legal workflows, technical content, and internal automation.
+- **Production AI systems** for revenue operations, legal workflows, technical content, and internal automation, including open-weight inference in closed, secure environments.
 - **Platform and delivery engineering** across containers, CI/CD, release automation, observability, and operational guardrails.
 - **Open source contributions** across developer tools, AI infrastructure, language tooling, and Python/Rust/TypeScript codebases.
 - **Evaluation-driven workflows** where "done" is defined before implementation, verified after, and tied to release evidence.
@@ -104,11 +104,11 @@ m0lz.02 implements a structured methodology for AI-assisted engineering:
 
 **Languages & Frameworks:** `TypeScript` `Python` `Rust` `Next.js` `React` `Node.js` `FastAPI` `Laravel` `Django`
 
-**AI/ML:** `Claude API` `OpenAI API` `Multi-Agent Architectures` `MCP Servers` `LLM Orchestration` `RAG Pipelines` `Embedding Models` `Rerankers` `scikit-learn` `Computer Vision`
+**AI/ML:** `Open-Weight Models` `Secure Inference` `Model Runtime Selection` `Multi-Agent Architectures` `MCP Servers` `LLM Orchestration` `RAG Pipelines` `Embedding Models` `Rerankers` `OpenAI API` `Claude API` `scikit-learn` `Computer Vision`
 
-**Model Deployment & Infrastructure:** `Self-Hosted Open-Weight Models` `Quantized Models for High-Throughput ETL` `Full-Weight Models for Deep Analysis` `RunPod GPU` `Docker-Based Model Serving` `Secure Closed-Environment Inference`
+**Model Deployment & Infrastructure:** `Secure Closed-Environment Inference` `Self-Hosted Open-Weight Models` `Containerized Inference` `Docker-Based Model Serving` `RunPod GPU` `AWS` `Vercel` `Quantized Models for High-Throughput ETL` `Full-Weight Models for Deep Analysis`
 
-**Infrastructure & Delivery:** `Docker` `Docker Compose` `GHCR` `GitHub Actions` `Vercel` `PostgreSQL` `Supabase` `Redis` `CI/CD` `Release Automation`
+**Infrastructure & Delivery:** `Docker` `Docker Compose` `GHCR` `GitHub Actions` `AWS` `Vercel` `PostgreSQL` `Supabase` `Redis` `CI/CD` `Release Automation`
 
 **Reliability & Operations:** `Observability` `Telemetry` `Audit Logging` `Health Checks` `Feature Flags` `Progressive Rollouts` `SLO/Alert Planning`
 
