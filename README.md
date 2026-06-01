@@ -1,6 +1,6 @@
 # Hey, I'm Jacob
 
-**AI Product Engineer & Technical Founder** - I build AI systems that move from prototype to production: agentic workflows, evaluation pipelines, product automation, and applied SaaS.
+**AI Product Engineer & Software Engineer** - I build AI systems that move from prototype to production: agentic workflows, evaluation pipelines, product automation, developer tooling, and applied SaaS.
 
 15+ shipped products. 7,100+ GitHub contributions in the last 12 months.
 
@@ -10,14 +10,19 @@
 
 - **AI developer tools** that make AI-assisted engineering more rigorous, reviewable, and repeatable.
 - **Production AI systems** for revenue operations, legal workflows, technical content, and internal automation.
+- **Platform and delivery engineering** across containers, CI/CD, release automation, observability, and operational guardrails.
 - **Open source contributions** across developer tools, AI infrastructure, language tooling, and Python/Rust/TypeScript codebases.
-- **Evaluation-driven workflows** where "done" is defined before implementation and verified after.
+- **Evaluation-driven workflows** where "done" is defined before implementation, verified after, and tied to release evidence.
 
 ---
 
 ### Recent open source work
 
 **In review**
+
+**[Puppeteer](https://github.com/puppeteer/puppeteer)** - Browser automation and testing infrastructure.
+
+- [puppeteer/puppeteer#15075](https://github.com/puppeteer/puppeteer/pull/15075) - added page-level locale emulation across CDP and WebDriver BiDi, with coverage for locale, timezone, and Accept-Language behavior.
 
 **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)** - Rust tooling for generating least-privilege IAM policies.
 
@@ -30,6 +35,7 @@
 - [trustgraph-ai/trustgraph#955](https://github.com/trustgraph-ai/trustgraph/pull/955) - tightened WebSocket client exception handling and added regression coverage.
 - [trustgraph-ai/trustgraph#954](https://github.com/trustgraph-ai/trustgraph/pull/954) - replaced a broad prompt-manager exception handler with specific exception handling.
 - [trustgraph-ai/trustgraph#952](https://github.com/trustgraph-ai/trustgraph/pull/952) - improved cache-directory error handling in sample document loading.
+- [trustgraph-ai/trustgraph#948](https://github.com/trustgraph-ai/trustgraph/pull/948) - made metric-label parsing safe for cache type values containing commas.
 
 **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)** - Rust tooling for generating least-privilege IAM policies.
 
@@ -47,9 +53,9 @@
 
 **[m0lz.01](https://github.com/jmolz/m0lz.01)** is the local idea-to-distribution pipeline that researches, drafts, evaluates, publishes, and distributes technical content.
 
-**[m0lz.02](https://github.com/jmolz/m0lz.02)** is the AI coding workflow orchestrator: Plan -> Implement -> Contract-Evaluate with dual-model adversarial review.
+**[m0lz.02](https://github.com/jmolz/m0lz.02)** is the AI coding workflow orchestrator: Plan -> Implement -> Contract-Evaluate with dual-model adversarial review, Docker CI parity gates, release automation, local metrics, and opt-in telemetry.
 
-**[m0lz.03](https://github.com/jmolz/m0lz.03)** is a security proxy daemon for MCP servers: auth, rate limiting, PII detection, permission scoping, and audit logging.
+**[m0lz.03](https://github.com/jmolz/m0lz.03)** is a security proxy daemon for MCP servers: auth, rate limiting, PII detection, permission scoping, audit logging, Docker packaging, GHCR release automation, and security benchmark coverage.
 
 **[m0lz.04](https://github.com/jmolz/m0lz.04)** is an AI-powered legal case-management system for pro se litigants.
 
@@ -61,9 +67,9 @@
 
 **[m0lz.01](https://github.com/jmolz/m0lz.01)** - Automated content publishing agent. Commits MDX posts to m0lz.00, produces platform images, prepares distribution kits, and supports cross-post workflows. *TypeScript*
 
-**[m0lz.02](https://github.com/jmolz/m0lz.02)** - Structured AI coding workflow orchestrator. Plan, Implement, Contract-Evaluate with adversarial evaluation, WISC context management, and tiered verification. *Rust / TypeScript*
+**[m0lz.02](https://github.com/jmolz/m0lz.02)** - Structured AI coding workflow orchestrator. Plan, Implement, Contract-Evaluate with adversarial evaluation, WISC context management, tiered verification, Docker-based CI parity, cross-platform release gates, local metrics, and opt-in telemetry. *Rust / TypeScript*
 
-**[m0lz.03](https://github.com/jmolz/m0lz.03)** - Security proxy daemon for MCP servers. Authentication, rate limiting, PII detection, permission scoping, audit logging, and attack-scenario validation. *TypeScript*
+**[m0lz.03](https://github.com/jmolz/m0lz.03)** - Security proxy daemon for MCP servers. OAuth 2.1/JWT authentication, rate limiting, PII detection, permission scoping, audit logging, Docker packaging, GHCR releases, health checks, and attack-scenario validation. *TypeScript*
 
 **[m0lz.04](https://github.com/jmolz/m0lz.04)** - AI-powered legal case management for pro se litigants. Court filing monitor, deadline tracker, citation verification, red team analysis, and DOCX export. Local-first and privacy-focused. *JavaScript / Claude API*
 
@@ -79,18 +85,34 @@ m0lz.02 implements a structured methodology for AI-assisted engineering:
 - **Dual-model adversarial evaluation** uses different model families to expose different blind spots.
 - **WISC context management** - Write, Isolate, Select, Compress - keeps long-running AI work grounded.
 - **Tiered evaluation rigor** scales verification to the risk of the change.
+- **Release evidence** connects local Docker preflight, hosted CI, artifact smoke tests, and tagged releases.
+
+---
+
+### Production engineering signals
+
+- **Containerized delivery:** Docker, Docker Compose, Docker-based CI parity checks, GHCR image publishing, and release artifact smoke tests.
+- **CI/CD and release ownership:** GitHub Actions, Vercel deployment flows, cross-platform validation, tagged releases, npm publishing, and rollback-aware release evidence.
+- **Progressive delivery:** feature flags, org-level rollout toggles, canary-style validation, A/B test planning, and rollout/backout criteria.
+- **Reliability and observability:** health endpoints, local metrics, opt-in telemetry, audit trails, SLO/alert planning, and deployment verification gates.
+- **Security engineering:** OAuth 2.1, JWT validation, permission scoping, rate limiting, PII detection, encrypted audit storage, security scanning, and negative security tests.
+- **Testing depth:** regression suites, contract tests, end-to-end checks, benchmark harnesses, Linux Docker parity, Windows smoke gates, and attack-scenario validation.
 
 ---
 
 ### Tech stack
 
-**Languages & Frameworks:** `TypeScript` `Python` `Rust` `Next.js` `FastAPI` `Laravel` `Django` `React`
+**Languages & Frameworks:** `TypeScript` `Python` `Rust` `Next.js` `React` `Node.js` `FastAPI` `Laravel` `Django`
 
 **AI/ML:** `Claude API` `OpenAI API` `Multi-Agent Architectures` `MCP Servers` `LLM Orchestration` `RAG Pipelines` `Embedding Models` `Rerankers` `scikit-learn` `Computer Vision`
 
 **Model Deployment & Infrastructure:** `Self-Hosted Open-Weight Models` `Quantized Models for High-Throughput ETL` `Full-Weight Models for Deep Analysis` `RunPod GPU` `Docker-Based Model Serving` `Secure Closed-Environment Inference`
 
-**Infrastructure:** `Docker` `PostgreSQL` `Supabase` `Redis` `CI/CD`
+**Infrastructure & Delivery:** `Docker` `Docker Compose` `GHCR` `GitHub Actions` `Vercel` `PostgreSQL` `Supabase` `Redis` `CI/CD` `Release Automation`
+
+**Reliability & Operations:** `Observability` `Telemetry` `Audit Logging` `Health Checks` `Feature Flags` `Progressive Rollouts` `SLO/Alert Planning`
+
+**Security:** `OAuth 2.1` `JWT` `RBAC/Permission Scoping` `PII Detection` `Rate Limiting` `SQLCipher` `Security Scanning`
 
 ---
 
