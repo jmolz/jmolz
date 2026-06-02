@@ -41,20 +41,20 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 ## Featured Systems
 
 <p align="center">
-  <img width="100%" alt="Featured systems cards for m0lz.02 and m0lz.03" src="./assets/featured-systems.svg" />
+  <img width="100%" alt="Featured systems cards for m0lz.01, m0lz.02, and m0lz.03" src="./assets/featured-systems.svg" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/jmolz/m0lz.01"><img alt="Open m0lz.01" src="https://img.shields.io/badge/open-m0lz.01-334155?style=flat-square" /></a>
   <a href="https://github.com/jmolz/m0lz.02"><img alt="Open m0lz.02" src="https://img.shields.io/badge/open-m0lz.02-2563eb?style=flat-square" /></a>
   <a href="https://github.com/jmolz/m0lz.03"><img alt="Open m0lz.03" src="https://img.shields.io/badge/open-m0lz.03-0f766e?style=flat-square" /></a>
-  <a href="https://github.com/jmolz/m0lz.01"><img alt="Open m0lz.01" src="https://img.shields.io/badge/open-m0lz.01-334155?style=flat-square" /></a>
 </p>
+
+**[m0lz.01](https://github.com/jmolz/m0lz.01)** is the local idea-to-distribution pipeline behind [m0lz.dev](https://m0lz.dev): research, benchmark, draft, evaluate, publish, and distribute technical content.
 
 **[m0lz.02](https://github.com/jmolz/m0lz.02)** is a Rust/TypeScript AI coding workflow orchestrator: Plan -> Implement -> Contract-Evaluate, dual-model adversarial review, context-isolated evaluators, Docker CI parity, Windows smoke tests, npm distribution, and release evidence.
 
 **[m0lz.03](https://github.com/jmolz/m0lz.03)** is a TypeScript MCP security proxy: OAuth 2.1/API-key auth, permission scoping, rate limiting, bidirectional PII detection, queryable audit logs, optional SQLCipher, Docker packaging, and benchmark coverage.
-
-**[m0lz.01](https://github.com/jmolz/m0lz.01)** is the local idea-to-distribution pipeline behind [m0lz.dev](https://m0lz.dev): research, benchmark, draft, evaluate, publish, and distribute technical content.
 
 ---
 
@@ -73,18 +73,10 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 
 ---
 
-## Activity and Proof
+## Proof Matrix
 
 <p align="center">
-  <img width="100%" alt="Engineering proof signals chart" src="./assets/engineering-proof-chart.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jmolz&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;radius=8&amp;custom_title=Contribution%20Activity" />
-</p>
-
-<p align="center">
-  <img width="54%" alt="GitHub contribution streak chart" src="https://streak-stats.demolab.com?user=jmolz&amp;theme=transparent&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;ring=2563EB&amp;fire=0F766E&amp;currStreakLabel=2563EB&amp;sideNums=0F766E&amp;currStreakNum=0F766E&amp;dates=475569&amp;sideLabels=475569" />
+  <img width="100%" alt="Engineering proof matrix showing containers, secure AI runtime, evals, release gates, rollouts, and observability" src="./assets/engineering-proof-chart.svg" />
 </p>
 
 ---
@@ -115,7 +107,7 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 
 ## Production Systems
 
-**SalesForge AI**: internal call-intelligence and coaching platform. Ingests Coffee/Levitate recordings, runs Dockerized RunPod inference with Whisper large-v3 and pyannote, extracts deterministic metrics, submits budget-controlled Anthropic Batch evaluations, and surfaces cited coaching insights in dashboards and chat. Includes durable heartbeats, Slack alerts, completion catch-up, poll-only reconciliation, production DB verification, and RunPod/Docker deploy reconciliation.
+**SalesForge AI** (internal): call-intelligence and coaching platform. Ingests Coffee/Levitate recordings, runs Dockerized RunPod inference with Whisper large-v3 and pyannote, extracts deterministic metrics, submits budget-controlled Anthropic Batch evaluations, and surfaces cited coaching insights in dashboards and chat. Includes durable heartbeats, Slack alerts, completion catch-up, poll-only reconciliation, production DB verification, and RunPod/Docker deploy reconciliation.
 
 **[Bloom](https://meetbloom.io)**: multi-tenant SaaS for landscaping and service businesses. Customer segmentation, campaigns, proposals, invoice workflows, routing/dispatch concepts, conversational AI assistance, org-scoped auth, RLS-backed data isolation, feature flags, structured logging, E2E/regression suites, and integrations across Stripe, Twilio, SendGrid, Gmail, QuickBooks, and Vercel Analytics.
 
@@ -138,23 +130,11 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 
 ---
 
-## Engineering Signals
-
-- **Containerized delivery:** Docker, Docker Compose, Docker-based CI parity checks, GHCR image publishing, and release artifact smoke tests.
-- **CI/CD and release ownership:** GitHub Actions, Vercel deployment flows, cross-platform validation, tagged releases, npm publishing, and rollback-aware release evidence.
-- **Progressive delivery:** feature flags, org-level rollout toggles, canary-style validation, A/B test planning, and rollout/backout criteria.
-- **Reliability and observability:** health endpoints, local metrics, opt-in telemetry, audit trails, SLO/alert planning, and deployment verification gates.
-- **Security engineering:** OAuth 2.1, JWT validation, permission scoping, rate limiting, PII detection, encrypted audit storage, security scanning, and negative security tests.
-- **Testing depth:** regression suites, contract tests, end-to-end checks, benchmark harnesses, Linux Docker parity, Windows smoke gates, and attack-scenario validation.
-
----
-
 ## The Numbers
 
-- **7,100+** GitHub contributions in the last 12 months
-- **15+** products built from zero to production
-- **4** companies co-founded with technical leadership
-- **2,900+** commits on Alpaka alone
+<p align="center">
+  <img width="100%" alt="Portfolio numbers snapshot showing GitHub contributions, products shipped, companies co-founded, and Alpaka commits" src="./assets/numbers-snapshot.svg" />
+</p>
 
 ---
 

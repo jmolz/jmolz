@@ -1,56 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
-  <title id="title">Featured systems: m0lz.02 and m0lz.03</title>
-  <desc id="desc">Two project cards showing m0lz.02 as an AI coding workflow orchestrator and m0lz.03 as an MCP security proxy.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">Featured systems: m0lz.01, m0lz.02, and m0lz.03</title>
+  <desc id="desc">Three project cards for the content pipeline, AI coding workflow orchestrator, and MCP security proxy.</desc>
   <defs>
-    <linearGradient id="header" x1="0" x2="1" y1="0" y2="1">
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
       <stop offset="0%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#0f766e"/>
+      <stop offset="45%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.14"/>
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.32"/>
     </filter>
   </defs>
 
-  <rect width="1100" height="360" rx="22" fill="#f8fafc"/>
-  <rect x="28" y="28" width="1044" height="304" rx="20" fill="#ffffff" stroke="#dbe3ef"/>
+  <rect width="1100" height="420" rx="28" fill="url(#panel)"/>
+  <circle cx="964" cy="76" r="170" fill="#2563eb" opacity="0.16"/>
+  <circle cx="120" cy="354" r="190" fill="#0f766e" opacity="0.14"/>
+  <rect x="58" y="56" width="984" height="6" rx="3" fill="url(#accent)"/>
 
-  <g filter="url(#shadow)">
-    <rect x="64" y="64" width="470" height="232" rx="18" fill="#ffffff" stroke="#dbe3ef"/>
-    <rect x="64" y="64" width="470" height="8" rx="4" fill="url(#header)"/>
-    <circle cx="112" cy="116" r="28" fill="#eff6ff" stroke="#bfdbfe"/>
-    <text x="112" y="124" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#2563eb">RS</text>
-    <text x="156" y="108" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#0f172a">m0lz.02</text>
-    <text x="156" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#475569">AI coding workflow orchestrator</text>
-    <text x="92" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">Plan -&gt; Implement -&gt; Contract-Evaluate</text>
-    <text x="92" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">Dual-model adversarial review</text>
-    <text x="92" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">Docker CI parity + release evidence</text>
-    <g transform="translate(92 254)">
-      <rect width="76" height="28" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
-      <text x="38" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1d4ed8">Rust</text>
-      <rect x="88" width="96" height="28" rx="14" fill="#ecfeff" stroke="#a5f3fc"/>
-      <text x="136" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#0e7490">TypeScript</text>
-      <rect x="196" width="82" height="28" rx="14" fill="#f0fdf4" stroke="#bbf7d0"/>
-      <text x="237" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#15803d">Docker</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(58 94)">
+      <rect width="304" height="258" rx="20" fill="#0f172a" stroke="#334155"/>
+      <circle cx="42" cy="44" r="26" fill="#111827" stroke="#2563eb"/>
+      <text x="42" y="53" text-anchor="middle" font-size="16" font-weight="850" fill="#60a5fa">01</text>
+      <text x="78" y="40" font-size="25" font-weight="850" fill="#f8fafc">m0lz.01</text>
+      <text x="78" y="66" font-size="13" font-weight="700" fill="#94a3b8">idea-to-distribution CLI</text>
+      <text x="28" y="112" font-size="15" fill="#e2e8f0">Research, benchmark, draft,</text>
+      <text x="28" y="138" font-size="15" fill="#e2e8f0">evaluate, publish, and distribute</text>
+      <text x="28" y="164" font-size="15" fill="#e2e8f0">technical content from one local</text>
+      <text x="28" y="190" font-size="15" fill="#e2e8f0">pipeline.</text>
+      <rect x="28" y="218" width="92" height="28" rx="14" fill="#1e3a8a"/>
+      <text x="74" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#bfdbfe">TypeScript</text>
+      <rect x="130" y="218" width="70" height="28" rx="14" fill="#164e63"/>
+      <text x="165" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#a5f3fc">SQLite</text>
+      <rect x="210" y="218" width="48" height="28" rx="14" fill="#334155"/>
+      <text x="234" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#cbd5e1">CLI</text>
     </g>
-  </g>
 
-  <g filter="url(#shadow)">
-    <rect x="566" y="64" width="470" height="232" rx="18" fill="#ffffff" stroke="#dbe3ef"/>
-    <rect x="566" y="64" width="470" height="8" rx="4" fill="url(#header)"/>
-    <circle cx="614" cy="116" r="28" fill="#ecfeff" stroke="#a5f3fc"/>
-    <text x="614" y="124" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#0f766e">TS</text>
-    <text x="658" y="108" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#0f172a">m0lz.03</text>
-    <text x="658" y="134" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#475569">MCP security proxy daemon</text>
-    <text x="594" y="174" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">OAuth 2.1 + API-key auth</text>
-    <text x="594" y="200" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">PII detection + permission scoping</text>
-    <text x="594" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#334155">Queryable audit logs + Docker packaging</text>
-    <g transform="translate(594 254)">
-      <rect width="96" height="28" rx="14" fill="#ecfeff" stroke="#a5f3fc"/>
-      <text x="48" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#0e7490">TypeScript</text>
-      <rect x="108" width="72" height="28" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
-      <text x="144" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#334155">MCP</text>
-      <rect x="192" width="86" height="28" rx="14" fill="#fff7ed" stroke="#fed7aa"/>
-      <text x="235" y="19" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#c2410c">Security</text>
+    <g transform="translate(398 94)">
+      <rect width="304" height="258" rx="20" fill="#0f172a" stroke="#334155"/>
+      <circle cx="42" cy="44" r="26" fill="#111827" stroke="#0f766e"/>
+      <text x="42" y="53" text-anchor="middle" font-size="16" font-weight="850" fill="#5eead4">02</text>
+      <text x="78" y="40" font-size="25" font-weight="850" fill="#f8fafc">m0lz.02</text>
+      <text x="78" y="66" font-size="13" font-weight="700" fill="#94a3b8">AI coding workflow</text>
+      <text x="28" y="112" font-size="15" fill="#e2e8f0">Plan -&gt; Implement -&gt;</text>
+      <text x="28" y="138" font-size="15" fill="#e2e8f0">Contract-Evaluate with</text>
+      <text x="28" y="164" font-size="15" fill="#e2e8f0">dual-model review, Docker CI</text>
+      <text x="28" y="190" font-size="15" fill="#e2e8f0">parity, and release evidence.</text>
+      <rect x="28" y="218" width="58" height="28" rx="14" fill="#1e3a8a"/>
+      <text x="57" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#bfdbfe">Rust</text>
+      <rect x="96" y="218" width="92" height="28" rx="14" fill="#164e63"/>
+      <text x="142" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#a5f3fc">TypeScript</text>
+      <rect x="198" y="218" width="72" height="28" rx="14" fill="#334155"/>
+      <text x="234" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#cbd5e1">Docker</text>
+    </g>
+
+    <g transform="translate(738 94)">
+      <rect width="304" height="258" rx="20" fill="#0f172a" stroke="#334155"/>
+      <circle cx="42" cy="44" r="26" fill="#111827" stroke="#38bdf8"/>
+      <text x="42" y="53" text-anchor="middle" font-size="16" font-weight="850" fill="#93c5fd">03</text>
+      <text x="78" y="40" font-size="25" font-weight="850" fill="#f8fafc">m0lz.03</text>
+      <text x="78" y="66" font-size="13" font-weight="700" fill="#94a3b8">MCP security proxy</text>
+      <text x="28" y="112" font-size="15" fill="#e2e8f0">OAuth/API-key auth, rate</text>
+      <text x="28" y="138" font-size="15" fill="#e2e8f0">limits, permission scoping, PII</text>
+      <text x="28" y="164" font-size="15" fill="#e2e8f0">detection, audit logs, Docker</text>
+      <text x="28" y="190" font-size="15" fill="#e2e8f0">packaging, and benchmarks.</text>
+      <rect x="28" y="218" width="92" height="28" rx="14" fill="#164e63"/>
+      <text x="74" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#a5f3fc">TypeScript</text>
+      <rect x="130" y="218" width="52" height="28" rx="14" fill="#334155"/>
+      <text x="156" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#cbd5e1">MCP</text>
+      <rect x="192" y="218" width="78" height="28" rx="14" fill="#1e3a8a"/>
+      <text x="231" y="237" text-anchor="middle" font-size="12" font-weight="800" fill="#bfdbfe">Security</text>
     </g>
   </g>
 </svg>
