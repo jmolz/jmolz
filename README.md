@@ -60,16 +60,19 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 
 ## Recent Open Source Work
 
-**In review**
+<p align="center">
+  <img width="100%" alt="Open source tracker showing active review queue and merged patch train" src="./assets/open-source-tracker.svg" />
+</p>
 
-- **[Puppeteer](https://github.com/puppeteer/puppeteer)**: [puppeteer/puppeteer#15075](https://github.com/puppeteer/puppeteer/pull/15075) adds page-level locale emulation across CDP and WebDriver BiDi, including locale, timezone, and Accept-Language behavior.
-- **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)**: [awslabs/iam-policy-autopilot#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) makes policy-generation resource cutoff behavior configurable across CLI, MCP, and library paths.
+Status snapshot checked with GitHub CLI on June 2, 2026.
 
-**Recently merged**
-
-- **[TrustGraph](https://github.com/trustgraph-ai/trustgraph)**: [#955](https://github.com/trustgraph-ai/trustgraph/pull/955), [#954](https://github.com/trustgraph-ai/trustgraph/pull/954), [#952](https://github.com/trustgraph-ai/trustgraph/pull/952), and [#948](https://github.com/trustgraph-ai/trustgraph/pull/948) tightened Python exception handling, cache parsing, metric-label parsing, and WebSocket behavior.
-- **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)**: [#214](https://github.com/awslabs/iam-policy-autopilot/pull/214) added pre-commit hooks and local validation documentation.
-- **[Harper](https://github.com/Automattic/harper)**: [Automattic/harper#3460](https://github.com/Automattic/harper/pull/3460) fixed a Rust grammar false positive for built-in verb phrases.
+| Lane | Project | Work item | Status |
+| --- | --- | --- | --- |
+| Active review | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi | In review |
+| Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) configurable policy-generation resource cutoff | In review |
+| Merged | [TrustGraph](https://github.com/trustgraph-ai/trustgraph) | [#955](https://github.com/trustgraph-ai/trustgraph/pull/955), [#954](https://github.com/trustgraph-ai/trustgraph/pull/954), [#952](https://github.com/trustgraph-ai/trustgraph/pull/952), [#948](https://github.com/trustgraph-ai/trustgraph/pull/948) exception handling, cache parsing, metric-label parsing, and WebSocket fixes | Merged |
+| Merged | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#214](https://github.com/awslabs/iam-policy-autopilot/pull/214) pre-commit hooks and local validation documentation | Merged |
+| Merged | [Harper](https://github.com/Automattic/harper) | [#3460](https://github.com/Automattic/harper/pull/3460) Rust grammar false-positive fix for built-in verb phrases | Merged |
 
 ---
 
