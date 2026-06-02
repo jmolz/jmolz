@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="Open to contract and consulting" src="https://img.shields.io/badge/open%20to-contract%20%2F%20consulting-2563eb?style=for-the-badge" />
+  <img alt="Open to contract, consulting, and full-time roles" src="https://img.shields.io/badge/open%20to-contract%20%2F%20consulting%20%2F%20full--time-2563eb?style=for-the-badge" />
   <img alt="Remote first from Raleigh NC" src="https://img.shields.io/badge/remote%20first-Raleigh%2C%20NC-0f766e?style=for-the-badge" />
   <img alt="AI systems and developer tools" src="https://img.shields.io/badge/focus-AI%20systems%20%2B%20developer%20tools-111827?style=for-the-badge" />
 </p>
