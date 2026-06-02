@@ -84,20 +84,34 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 ## Core Stack
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" title="Rust" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" title="AWS" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/rust-colored.svg" width="36" height="36" alt="Rust" title="Rust" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="./assets/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="./assets/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" title="AWS" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" /></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="./assets/skills/huggingface-colored.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./assets/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" /></a>
 </p>
 
-**AI/ML:** open-weight models, secure inference, model runtime selection, RAG, embeddings, rerankers, pgvector, MCP, multi-agent workflows, LLM orchestration, evaluation pipelines, Whisper, pyannote, Vercel AI SDK, OpenAI API, Claude/Anthropic API.
+**Application stack:** TypeScript, JavaScript, Python, Rust, React, Next.js, Node.js, FastAPI, Django, Laravel, HTML, CSS, Tailwind CSS, Vite.
+
+**AI/ML:** open-weight models, secure inference, model runtime selection, RAG, embeddings, rerankers, pgvector, MCP, multi-agent workflows, LLM orchestration, evaluation pipelines, Whisper, pyannote, Hugging Face, PyTorch, Vercel AI SDK, OpenAI API, Claude/Anthropic API.
 
 **Infrastructure and delivery:** Docker, Docker Compose, RunPod, AWS, Vercel, GitHub Actions, GHCR, CI/CD, release automation, Supabase, Neon/PostgreSQL, Redis, Drizzle ORM.
 
