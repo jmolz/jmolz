@@ -41,12 +41,13 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 ## Featured Systems
 
 <p align="center">
-  <a href="https://github.com/jmolz/m0lz.02">
-    <img width="48%" alt="m0lz.02 repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=jmolz&repo=m0lz.02&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=374151&icon_color=0f766e" />
-  </a>
-  <a href="https://github.com/jmolz/m0lz.03">
-    <img width="48%" alt="m0lz.03 repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=jmolz&repo=m0lz.03&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=374151&icon_color=0f766e" />
-  </a>
+  <img width="100%" alt="Featured systems cards for m0lz.02 and m0lz.03" src="./assets/featured-systems.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jmolz/m0lz.02"><img alt="Open m0lz.02" src="https://img.shields.io/badge/open-m0lz.02-2563eb?style=flat-square" /></a>
+  <a href="https://github.com/jmolz/m0lz.03"><img alt="Open m0lz.03" src="https://img.shields.io/badge/open-m0lz.03-0f766e?style=flat-square" /></a>
+  <a href="https://github.com/jmolz/m0lz.01"><img alt="Open m0lz.01" src="https://img.shields.io/badge/open-m0lz.01-334155?style=flat-square" /></a>
 </p>
 
 **[m0lz.02](https://github.com/jmolz/m0lz.02)** is a Rust/TypeScript AI coding workflow orchestrator: Plan -> Implement -> Contract-Evaluate, dual-model adversarial review, context-isolated evaluators, Docker CI parity, Windows smoke tests, npm distribution, and release evidence.
@@ -69,6 +70,22 @@ I am currently focused on **AI/full-stack engineering, contract engineering, app
 - **[TrustGraph](https://github.com/trustgraph-ai/trustgraph)**: [#955](https://github.com/trustgraph-ai/trustgraph/pull/955), [#954](https://github.com/trustgraph-ai/trustgraph/pull/954), [#952](https://github.com/trustgraph-ai/trustgraph/pull/952), and [#948](https://github.com/trustgraph-ai/trustgraph/pull/948) tightened Python exception handling, cache parsing, metric-label parsing, and WebSocket behavior.
 - **[AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot)**: [#214](https://github.com/awslabs/iam-policy-autopilot/pull/214) added pre-commit hooks and local validation documentation.
 - **[Harper](https://github.com/Automattic/harper)**: [Automattic/harper#3460](https://github.com/Automattic/harper/pull/3460) fixed a Rust grammar false positive for built-in verb phrases.
+
+---
+
+## Activity and Proof
+
+<p align="center">
+  <img width="100%" alt="Engineering proof signals chart" src="./assets/engineering-proof-chart.svg" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jmolz&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;radius=8&amp;custom_title=Contribution%20Activity" />
+</p>
+
+<p align="center">
+  <img width="54%" alt="GitHub contribution streak chart" src="https://streak-stats.demolab.com?user=jmolz&amp;theme=transparent&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;ring=2563EB&amp;fire=0F766E&amp;currStreakLabel=2563EB&amp;sideNums=0F766E&amp;currStreakNum=0F766E&amp;dates=475569&amp;sideLabels=475569" />
+</p>
 
 ---
 
