@@ -1,7 +1,7 @@
 <h1 align="center">Jacob Molz</h1>
 
 <p align="center">
-  <strong>AI systems engineer building production software, developer tools, eval workflows, and secure model/runtime infrastructure.</strong>
+  <strong>Full-stack software engineer building AI SaaS platforms, developer tools, eval workflows, and secure model/runtime infrastructure.</strong>
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 <p align="center">
   <img alt="Open to contract, consulting, and full-time roles" src="https://img.shields.io/badge/open%20to-contract%20%2F%20consulting%20%2F%20full--time-2563eb?style=for-the-badge" />
   <img alt="Remote first from Raleigh NC" src="https://img.shields.io/badge/remote%20first-Raleigh%2C%20NC-0f766e?style=for-the-badge" />
-  <img alt="AI systems and developer tools" src="https://img.shields.io/badge/focus-AI%20systems%20%2B%20developer%20tools-111827?style=for-the-badge" />
+  <img alt="AI SaaS platforms and developer tools" src="https://img.shields.io/badge/focus-AI%20SaaS%20platforms%20%2B%20developer%20tools-111827?style=for-the-badge" />
 </p>
 
-I help teams turn AI prototypes, internal tools, and high-leverage product ideas into production systems: data contracts, model/runtime choices, secure infrastructure, evals, observability, deployment gates, and user-facing workflows that hold up after launch.
+I help teams turn AI prototypes, internal tools, and high-leverage product ideas into production SaaS systems: data contracts, model/runtime choices, secure infrastructure, evals, observability, deployment gates, and user-facing workflows that hold up after launch.
 
 Most recently at REVGEN, I built production AI and SaaS systems across **Next.js, React, TypeScript, Python, Supabase/PostgreSQL, Docker, RunPod, Vercel, GitHub Actions, Twilio, SendGrid, Stripe, QuickBooks, Gmail, and ShareFile**.
 
-I am currently focused on **AI/full-stack engineering, contract engineering, applied AI consulting, developer tools, eval infrastructure, secure model runtimes, and platform/reliability work**.
+I am currently focused on **full-stack software engineering, AI SaaS platforms, contract engineering, applied AI consulting, developer tools, eval infrastructure, secure model runtimes, and platform/reliability work**.
 
 ---
 
