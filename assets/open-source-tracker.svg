@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot with two active review items and three recently merged workstreams.</desc>
+  <desc id="desc">Tracker-style snapshot with three active review items and three recently merged workstreams.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -16,7 +16,7 @@
     </filter>
   </defs>
 
-  <rect width="1100" height="500" rx="28" fill="url(#panel)"/>
+  <rect width="1100" height="570" rx="28" fill="url(#panel)"/>
   <circle cx="964" cy="92" r="170" fill="#2563eb" opacity="0.16"/>
   <circle cx="130" cy="432" r="190" fill="#0f766e" opacity="0.14"/>
   <rect x="58" y="54" width="984" height="6" rx="3" fill="url(#accent)"/>
@@ -26,10 +26,10 @@
     <text x="58" y="132" font-size="15" fill="#cbd5e1">Current review queue and recently merged patches across developer-tool, AI infrastructure, and Rust/Python projects.</text>
 
     <g transform="translate(58 168)" filter="url(#shadow)">
-      <rect width="484" height="286" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="484" height="360" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">2 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">3 open PRs</text>
 
       <g transform="translate(26 76)">
         <rect width="432" height="84" rx="16" fill="#111827" stroke="#334155"/>
@@ -40,18 +40,26 @@
         <text x="18" y="74" font-size="12" fill="#94a3b8">Status: in review</text>
       </g>
 
-      <g transform="translate(26 178)">
+      <g transform="translate(26 174)">
         <rect width="432" height="84" rx="16" fill="#111827" stroke="#334155"/>
         <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
         <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
         <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
         <text x="18" y="56" font-size="13" fill="#cbd5e1">Configurable resource cutoff for policy generation</text>
-        <text x="18" y="74" font-size="12" fill="#94a3b8">Status: in review</text>
+        <text x="18" y="74" font-size="12" fill="#94a3b8">Status: open and mergeable after signed rebase</text>
+      </g>
+
+      <g transform="translate(26 272)">
+        <rect width="432" height="72" rx="16" fill="#111827" stroke="#334155"/>
+        <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
+        <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
+        <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="18" y="56" font-size="13" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
       </g>
     </g>
 
     <g transform="translate(570 168)" filter="url(#shadow)">
-      <rect width="472" height="286" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="472" height="360" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Merged patch train</text>
       <rect x="328" y="24" width="118" height="28" rx="14" fill="#064e3b"/>
       <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">6 merged PRs</text>
@@ -69,9 +77,9 @@
       </g>
 
       <g transform="translate(26 224)">
-        <rect width="420" height="42" rx="16" fill="#111827" stroke="#334155"/>
+        <rect width="420" height="58" rx="16" fill="#111827" stroke="#334155"/>
         <text x="18" y="27" font-size="15" font-weight="850" fill="#f8fafc">Harper #3460</text>
-        <text x="120" y="27" font-size="13" fill="#cbd5e1">Rust grammar false-positive fix</text>
+        <text x="18" y="47" font-size="13" fill="#cbd5e1">Rust grammar false-positive fix</text>
       </g>
     </g>
   </g>
