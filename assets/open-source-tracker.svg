@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot with four active review items and three recently merged workstreams.</desc>
+  <desc id="desc">Tracker-style snapshot with five active review items and three recently merged workstreams.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -29,38 +29,46 @@
       <rect width="484" height="360" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">4 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
 
-      <g transform="translate(26 66)">
-        <rect width="432" height="64" rx="16" fill="#111827" stroke="#334155"/>
-        <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
+      <g transform="translate(26 62)">
+        <rect width="432" height="54" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="24" font-size="15" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
         <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
         <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="18" y="54" font-size="13" fill="#cbd5e1">Locale emulation across CDP and BiDi</text>
+        <text x="18" y="44" font-size="12" fill="#cbd5e1">Locale emulation across CDP and BiDi</text>
       </g>
 
-      <g transform="translate(26 138)">
-        <rect width="432" height="64" rx="16" fill="#111827" stroke="#334155"/>
-        <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
+      <g transform="translate(26 120)">
+        <rect width="432" height="54" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="24" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
         <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
         <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="18" y="54" font-size="13" fill="#cbd5e1">Done from my side; awaiting maintainer review</text>
+        <text x="18" y="44" font-size="12" fill="#cbd5e1">Done from my side; awaiting review</text>
       </g>
 
-      <g transform="translate(26 210)">
-        <rect width="432" height="64" rx="16" fill="#111827" stroke="#334155"/>
-        <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
+      <g transform="translate(26 178)">
+        <rect width="432" height="54" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="24" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
         <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
         <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="18" y="54" font-size="13" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
+        <text x="18" y="44" font-size="12" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
       </g>
 
-      <g transform="translate(26 282)">
-        <rect width="432" height="64" rx="16" fill="#111827" stroke="#334155"/>
-        <text x="18" y="30" font-size="15" font-weight="850" fill="#f8fafc">Deno / dprint TypeScript plugin #800</text>
+      <g transform="translate(26 236)">
+        <rect width="432" height="54" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="24" font-size="15" font-weight="850" fill="#f8fafc">Deno / dprint TypeScript #800</text>
         <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
         <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="18" y="54" font-size="13" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
+        <text x="18" y="44" font-size="12" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
+      </g>
+
+      <g transform="translate(26 294)">
+        <rect width="432" height="54" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="24" font-size="15" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
+        <rect x="300" y="16" width="112" height="24" rx="12" fill="#312e81"/>
+        <text x="356" y="33" text-anchor="middle" font-size="11" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="18" y="44" font-size="12" fill="#cbd5e1">Invalid PDF decoder input validation</text>
       </g>
     </g>
 
