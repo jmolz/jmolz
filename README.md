@@ -64,13 +64,14 @@ I am currently focused on **full-stack software engineering, AI SaaS platforms, 
   <img width="100%" alt="Open source tracker showing active review queue and merged patch train" src="./assets/open-source-tracker.svg" />
 </p>
 
-Status snapshot checked with GitHub CLI on June 6, 2026.
+Status snapshot checked with GitHub CLI on June 7, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
 | Active review | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi | Open, mergeable; CLA and visible checks green |
-| Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) configurable policy-generation resource cutoff | Open, mergeable after signed rebase |
+| Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) configurable policy-generation resource cutoff | Implementation complete from my side; open, mergeable after signed rebase, awaiting maintainer review |
 | Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open, mergeable; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked |
+| Active review | [Deno / dprint TypeScript plugin](https://github.com/dprint/dprint-plugin-typescript) | [#800](https://github.com/dprint/dprint-plugin-typescript/pull/800) preserve Markdown hard breaks in JSDoc formatting for Deno issue [#31831](https://github.com/denoland/deno/issues/31831) | Open, mergeable upstream fix |
 | Merged | [TrustGraph](https://github.com/trustgraph-ai/trustgraph) | [#955](https://github.com/trustgraph-ai/trustgraph/pull/955), [#954](https://github.com/trustgraph-ai/trustgraph/pull/954), [#952](https://github.com/trustgraph-ai/trustgraph/pull/952), [#948](https://github.com/trustgraph-ai/trustgraph/pull/948) exception handling, cache parsing, metric-label parsing, and WebSocket fixes | Merged |
 | Merged | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#214](https://github.com/awslabs/iam-policy-autopilot/pull/214) pre-commit hooks and local validation documentation | Merged |
 | Merged | [Harper](https://github.com/Automattic/harper) | [#3460](https://github.com/Automattic/harper/pull/3460) Rust grammar false-positive fix for built-in verb phrases | Merged |
