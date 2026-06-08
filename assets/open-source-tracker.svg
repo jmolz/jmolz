@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="570" viewBox="0 0 1100 570" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
   <desc id="desc">Tracker-style snapshot with seven active review items and three recently merged workstreams.</desc>
   <defs>
@@ -16,7 +16,7 @@
     </filter>
   </defs>
 
-  <rect width="1100" height="570" rx="28" fill="url(#panel)"/>
+  <rect width="1100" height="600" rx="28" fill="url(#panel)"/>
   <circle cx="964" cy="92" r="170" fill="#2563eb" opacity="0.16"/>
   <circle cx="130" cy="432" r="190" fill="#0f766e" opacity="0.14"/>
   <rect x="58" y="54" width="984" height="6" rx="3" fill="url(#accent)"/>
@@ -26,7 +26,7 @@
     <text x="58" y="132" font-size="15" fill="#cbd5e1">Current review queue and recently merged patches across developer-tool, AI infrastructure, and Rust/Python projects.</text>
 
     <g transform="translate(58 168)" filter="url(#shadow)">
-      <rect width="484" height="360" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="484" height="390" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
       <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">7 open PRs</text>
@@ -89,7 +89,7 @@
     </g>
 
     <g transform="translate(570 168)" filter="url(#shadow)">
-      <rect width="472" height="360" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="472" height="390" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Merged patch train</text>
       <rect x="328" y="24" width="118" height="28" rx="14" fill="#064e3b"/>
       <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">6 merged PRs</text>
