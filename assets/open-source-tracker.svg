@@ -31,52 +31,52 @@
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
       <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">6 open PRs</text>
 
-      <g transform="translate(26 60)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">LiveKit Agents #6001</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">STT error tolerance in AgentSession</text>
+      <g transform="translate(26 70)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">LiveKit Agents #6001</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">STT error tolerance in AgentSession</text>
       </g>
 
-      <g transform="translate(26 101)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Locale emulation across CDP and BiDi</text>
+      <g transform="translate(26 124)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">Locale emulation across CDP and BiDi</text>
       </g>
 
-      <g transform="translate(26 142)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">approval wait</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Resource cutoff config; changelog follow-up</text>
+      <g transform="translate(26 178)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">approval wait</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">Resource cutoff config; changelog follow-up</text>
       </g>
 
-      <g transform="translate(26 183)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">approval wait</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
+      <g transform="translate(26 232)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">approval wait</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
       </g>
 
-      <g transform="translate(26 224)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">Deno / dprint TypeScript #800</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
+      <g transform="translate(26 286)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">Deno / dprint TypeScript #800</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
       </g>
 
-      <g transform="translate(26 265)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Invalid PDF decoder input validation</text>
+      <g transform="translate(26 340)">
+        <rect width="432" height="42" rx="12" fill="#111827" stroke="#334155"/>
+        <text x="14" y="18" font-size="13" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
+        <rect x="304" y="9" width="108" height="24" rx="12" fill="#312e81"/>
+        <text x="358" y="25" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <text x="14" y="35" font-size="11" fill="#cbd5e1">Invalid PDF decoder input validation</text>
       </g>
     </g>
 
