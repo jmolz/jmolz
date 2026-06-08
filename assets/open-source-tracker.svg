@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot with seven active review items and three recently merged workstreams.</desc>
+  <desc id="desc">Tracker-style snapshot with six active review items and three recently merged workstreams.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -29,17 +29,9 @@
       <rect width="484" height="390" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">7 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">6 open PRs</text>
 
       <g transform="translate(26 60)">
-        <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
-        <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">PrairieLearn #15199</text>
-        <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
-        <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Discussion + disclosure complete</text>
-      </g>
-
-      <g transform="translate(26 101)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">LiveKit Agents #6001</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
@@ -47,7 +39,7 @@
         <text x="14" y="32" font-size="11" fill="#cbd5e1">STT error tolerance in AgentSession</text>
       </g>
 
-      <g transform="translate(26 142)">
+      <g transform="translate(26 101)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
@@ -55,15 +47,15 @@
         <text x="14" y="32" font-size="11" fill="#cbd5e1">Locale emulation across CDP and BiDi</text>
       </g>
 
-      <g transform="translate(26 183)">
+      <g transform="translate(26 142)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
         <text x="358" y="23" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">approval wait</text>
-        <text x="14" y="32" font-size="11" fill="#cbd5e1">Resource cutoff config; CI follow-up pushed</text>
+        <text x="14" y="32" font-size="11" fill="#cbd5e1">Resource cutoff config; changelog follow-up</text>
       </g>
 
-      <g transform="translate(26 224)">
+      <g transform="translate(26 183)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #227</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
@@ -71,7 +63,7 @@
         <text x="14" y="32" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for IAM mutation</text>
       </g>
 
-      <g transform="translate(26 265)">
+      <g transform="translate(26 224)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">Deno / dprint TypeScript #800</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
@@ -79,7 +71,7 @@
         <text x="14" y="32" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
       </g>
 
-      <g transform="translate(26 306)">
+      <g transform="translate(26 265)">
         <rect width="432" height="38" rx="12" fill="#111827" stroke="#334155"/>
         <text x="14" y="17" font-size="13" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
         <rect x="304" y="8" width="108" height="22" rx="11" fill="#312e81"/>
