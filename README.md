@@ -68,7 +68,7 @@ Status snapshot checked with GitHub CLI on June 8, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
-| Active review | [PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) | [#15199](https://github.com/PrairieLearn/PrairieLearn/pull/15199) validate course element `info.json` files during sync | Open, mergeable; CLA, docs, and CodeRabbit green; core workflows awaiting maintainer approval |
+| Active review | [PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) | [#15199](https://github.com/PrairieLearn/PrairieLearn/pull/15199) validate course element `info.json` files during sync | Open, mergeable; discussion [#15202](https://github.com/PrairieLearn/PrairieLearn/discussions/15202) and AI disclosure complete; workflows awaiting maintainer approval |
 | Active review | [LiveKit Agents](https://github.com/livekit/agents) | [#6001](https://github.com/livekit/agents/pull/6001) STT error-tolerance handling in `AgentSession` | Open, mergeable; CLA, CI, tests, and release gate green |
 | Active review | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi | Open, mergeable; Google CLA and visible checks green |
 | Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#217](https://github.com/awslabs/iam-policy-autopilot/pull/217) configurable policy-generation resource cutoff | Open, mergeable; signed CI-stability follow-up pushed; workflow awaiting maintainer approval |
