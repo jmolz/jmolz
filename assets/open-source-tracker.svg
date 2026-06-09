@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot with six active review items and three recently merged workstreams.</desc>
+  <desc id="desc">Tracker-style snapshot with five active review items and four recently merged workstreams.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -29,7 +29,7 @@
       <rect width="484" height="390" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">6 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
 
       <g transform="translate(26 76)">
         <rect width="206" height="78" rx="14" fill="#111827" stroke="#334155"/>
@@ -49,21 +49,13 @@
 
       <g transform="translate(26 174)">
         <rect width="206" height="78" rx="14" fill="#111827" stroke="#334155"/>
-        <text x="14" y="22" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #217</text>
-        <text x="14" y="42" font-size="12" fill="#cbd5e1">Resource cutoff config</text>
-        <circle cx="18" cy="61" r="4" fill="#22c55e"/>
-        <text x="30" y="65" font-size="11" font-weight="750" fill="#bbf7d0">checks green</text>
-      </g>
-
-      <g transform="translate(252 174)">
-        <rect width="206" height="78" rx="14" fill="#111827" stroke="#334155"/>
         <text x="14" y="22" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="14" y="42" font-size="12" fill="#cbd5e1">Read-only MCP guardrail</text>
         <circle cx="18" cy="61" r="4" fill="#38bdf8"/>
         <text x="30" y="65" font-size="11" font-weight="750" fill="#bfdbfe">approval wait</text>
       </g>
 
-      <g transform="translate(26 272)">
+      <g transform="translate(252 174)">
         <rect width="206" height="78" rx="14" fill="#111827" stroke="#334155"/>
         <text x="14" y="22" font-size="14" font-weight="850" fill="#f8fafc">dprint TS #800</text>
         <text x="14" y="42" font-size="12" fill="#cbd5e1">JSDoc hard breaks</text>
@@ -71,7 +63,7 @@
         <text x="30" y="65" font-size="11" font-weight="750" fill="#c4b5fd">in review</text>
       </g>
 
-      <g transform="translate(252 272)">
+      <g transform="translate(26 272)">
         <rect width="206" height="78" rx="14" fill="#111827" stroke="#334155"/>
         <text x="14" y="22" font-size="14" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
         <text x="14" y="42" font-size="12" fill="#cbd5e1">PDF decoder validation</text>
@@ -84,7 +76,7 @@
       <rect width="472" height="390" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Merged patch train</text>
       <rect x="328" y="24" width="118" height="28" rx="14" fill="#064e3b"/>
-      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">6 merged PRs</text>
+      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">7 merged PRs</text>
 
       <g transform="translate(26 76)">
         <rect width="420" height="58" rx="16" fill="#111827" stroke="#334155"/>
@@ -94,11 +86,17 @@
 
       <g transform="translate(26 150)">
         <rect width="420" height="58" rx="16" fill="#111827" stroke="#334155"/>
+        <text x="18" y="25" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #217</text>
+        <text x="18" y="45" font-size="13" fill="#cbd5e1">Resource cutoff configuration</text>
+      </g>
+
+      <g transform="translate(26 224)">
+        <rect width="420" height="58" rx="16" fill="#111827" stroke="#334155"/>
         <text x="18" y="25" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Policy Autopilot #214</text>
         <text x="18" y="45" font-size="13" fill="#cbd5e1">Pre-commit hooks and local validation docs</text>
       </g>
 
-      <g transform="translate(26 224)">
+      <g transform="translate(26 298)">
         <rect width="420" height="58" rx="16" fill="#111827" stroke="#334155"/>
         <text x="18" y="27" font-size="15" font-weight="850" fill="#f8fafc">Harper #3460</text>
         <text x="18" y="47" font-size="13" fill="#cbd5e1">Rust grammar false-positive fix</text>
