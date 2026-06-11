@@ -64,13 +64,13 @@ I am currently focused on **full-stack software engineering, AI SaaS platforms, 
   <img width="100%" alt="Open source tracker showing active review queue and merged patch train" src="./assets/open-source-tracker.svg" />
 </p>
 
-Status snapshot checked with GitHub CLI on June 9, 2026.
+Status snapshot checked with GitHub CLI on June 11, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
 | Active review | [CrewAI](https://github.com/crewAIInc/crewAI) | [#6094](https://github.com/crewAIInc/crewAI/pull/6094) human feedback final answer visibility | Open, mergeable, CodeRabbit-approved; CodeRabbit and GitGuardian checks green |
 | Active review | [LiveKit Agents](https://github.com/livekit/agents) | [#6001](https://github.com/livekit/agents/pull/6001) STT error-tolerance handling in `AgentSession` | Open; CLA, CI, tests, and release gate green |
-| Active review | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi | Open, mergeable; review-fix pushed; Google CLA, title check, and `check-changes` green |
+| Active review | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi | Open, mergeable; latest review-fix pushed; Google CLA, title check, and `check-changes` green |
 | Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open, mergeable; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked; workflow awaiting maintainer approval |
 | Active review | [Deno / dprint TypeScript plugin](https://github.com/dprint/dprint-plugin-typescript) | [#800](https://github.com/dprint/dprint-plugin-typescript/pull/800) preserve Markdown hard breaks in JSDoc formatting for Deno issue [#31831](https://github.com/denoland/deno/issues/31831) | Open, mergeable upstream fix; no visible check rollup yet |
 | Merged | [TrustGraph](https://github.com/trustgraph-ai/trustgraph) | [#977](https://github.com/trustgraph-ai/trustgraph/pull/977) reject invalid PDF decoder input for issue [#949](https://github.com/trustgraph-ai/trustgraph/issues/949) | Merged 2026-06-09 |
