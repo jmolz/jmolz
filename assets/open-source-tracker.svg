@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot with four active review items and nine recently merged pull requests.</desc>
+  <desc id="desc">Tracker-style snapshot verified July 13, 2026, with four active review items and nine recently merged pull requests.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -52,7 +52,7 @@
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for mutation</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#075985"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">approval wait</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">review wait</text>
       </g>
 
       <g transform="translate(26 306)">
@@ -85,7 +85,7 @@
       <g transform="translate(26 192)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">TrustGraph #948 #952 #954 #955</text>
-        <text x="18" y="40" font-size="12" fill="#cbd5e1">Safer exceptions, parsing, and WebSocket behavior</text>
+        <text x="18" y="40" font-size="12" fill="#cbd5e1">Cache errors, parsing, and WebSocket behavior</text>
       </g>
 
       <g transform="translate(26 254)">
