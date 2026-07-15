@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="756" viewBox="0 0 1100 756" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot verified July 14, 2026, with five active review items and nine recently merged pull requests.</desc>
+  <desc id="desc">Tracker-style snapshot verified July 15, 2026, with four active review items and ten recently merged pull requests.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -16,9 +16,9 @@
     </filter>
   </defs>
 
-  <rect width="1100" height="680" rx="28" fill="url(#panel)"/>
+  <rect width="1100" height="756" rx="28" fill="url(#panel)"/>
   <circle cx="964" cy="92" r="170" fill="#2563eb" opacity="0.16"/>
-  <circle cx="130" cy="512" r="190" fill="#0f766e" opacity="0.14"/>
+  <circle cx="130" cy="588" r="190" fill="#0f766e" opacity="0.14"/>
   <rect x="58" y="54" width="984" height="6" rx="3" fill="url(#accent)"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
@@ -26,12 +26,12 @@
     <text x="58" y="132" font-size="15" fill="#cbd5e1">Review queue and merged patches across developer tools, AI infrastructure, Rust, and Python.</text>
 
     <g transform="translate(58 168)" filter="url(#shadow)">
-      <rect width="484" height="468" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="484" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">4 open PRs</text>
 
-      <g transform="translate(26 78)">
+      <g transform="translate(26 96)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">CrewAI #6094</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Human feedback final answer visibility</text>
@@ -39,15 +39,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#a7f3d0">bot approved</text>
       </g>
 
-      <g transform="translate(26 154)">
-        <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
-        <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">Pinecone MCP #89</text>
-        <text x="16" y="38" font-size="11" fill="#cbd5e1">Claude tool schema for upsert-records</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#065f46"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#a7f3d0">approved</text>
-      </g>
-
-      <g transform="translate(26 230)">
+      <g transform="translate(26 202)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for mutation</text>
@@ -55,7 +47,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">review wait</text>
       </g>
 
-      <g transform="translate(26 306)">
+      <g transform="translate(26 308)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">dprint TS #800</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
@@ -63,7 +55,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
       </g>
 
-      <g transform="translate(26 382)">
+      <g transform="translate(26 414)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">Awesome MCP Security #124</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">MCP-Guard security tooling directory entry</text>
@@ -73,36 +65,42 @@
     </g>
 
     <g transform="translate(570 168)" filter="url(#shadow)">
-      <rect width="472" height="468" rx="22" fill="#0f172a" stroke="#334155"/>
+      <rect width="472" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Merged patch train</text>
       <rect x="328" y="24" width="118" height="28" rx="14" fill="#064e3b"/>
-      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">9 merged PRs</text>
+      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">10 merged PRs</text>
 
       <g transform="translate(26 78)">
+        <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
+        <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">Pinecone MCP #89</text>
+        <text x="18" y="40" font-size="12" fill="#cbd5e1">Claude-compatible upsert-records schema</text>
+      </g>
+
+      <g transform="translate(26 154)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">Puppeteer #15075</text>
         <text x="18" y="40" font-size="12" fill="#cbd5e1">Locale emulation for issue #11303</text>
       </g>
 
-      <g transform="translate(26 154)">
+      <g transform="translate(26 230)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">TrustGraph #977</text>
         <text x="18" y="40" font-size="12" fill="#cbd5e1">Invalid PDF decoder input validation</text>
       </g>
 
-      <g transform="translate(26 230)">
+      <g transform="translate(26 306)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">TrustGraph #948 #952 #954 #955</text>
         <text x="18" y="40" font-size="12" fill="#cbd5e1">Cache errors, parsing, and WebSocket behavior</text>
       </g>
 
-      <g transform="translate(26 306)">
+      <g transform="translate(26 382)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">AWS IAM Autopilot #217 #214</text>
         <text x="18" y="40" font-size="12" fill="#cbd5e1">Resource cutoff and validation docs</text>
       </g>
 
-      <g transform="translate(26 382)">
+      <g transform="translate(26 458)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">Harper #3460</text>
         <text x="18" y="40" font-size="12" fill="#cbd5e1">Rust grammar false-positive fix</text>
