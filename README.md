@@ -64,12 +64,13 @@ I am currently focused on **full-stack software engineering, AI SaaS platforms, 
   <img width="100%" alt="Open source tracker showing active review queue and merged patch train" src="./assets/open-source-tracker.svg" />
 </p>
 
-Status snapshot checked with GitHub CLI on July 15, 2026.
+Status snapshot checked with GitHub CLI on July 27, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
-| Active review | [CrewAI](https://github.com/crewAIInc/crewAI) | [#6094](https://github.com/crewAIInc/crewAI/pull/6094) human feedback final answer visibility | Open; CodeRabbit-approved; CodeRabbit and GitGuardian checks green; maintainer action pending |
-| Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open, mergeable; maintainer review required; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked; no visible check rollup |
+| Active review | [NVIDIA OO Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | [#36](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/36) forward authentication headers through the SSE MCP transport | Open, mergeable; signed commit verified; maintainer review pending; no visible check rollup |
+| Active review | [CrewAI](https://github.com/crewAIInc/crewAI) | [#6094](https://github.com/crewAIInc/crewAI/pull/6094) human feedback final answer visibility | Open; review approved; GitGuardian check green; maintainer action pending |
+| Active review | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open; maintainer review required; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked; no visible check rollup |
 | Active review | [Deno / dprint TypeScript plugin](https://github.com/dprint/dprint-plugin-typescript) | [#800](https://github.com/dprint/dprint-plugin-typescript/pull/800) preserve Markdown hard breaks in JSDoc formatting for Deno issue [#31831](https://github.com/denoland/deno/issues/31831) | Open, mergeable; maintainer review pending; no visible check rollup |
 | Active review | [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security) | [#124](https://github.com/Puliczek/awesome-mcp-security/pull/124) add MCP-Guard to the security tooling directory | Open, mergeable; maintainer review pending; no visible check rollup |
 | Merged | [Pinecone MCP](https://github.com/pinecone-io/pinecone-mcp) | [#89](https://github.com/pinecone-io/pinecone-mcp/pull/89) correct the `upsert-records` schema for Claude tools | Merged 2026-07-15 after maintainer approval; Cursor Bugbot and GitGuardian checks green |
