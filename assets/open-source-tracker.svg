@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="756" viewBox="0 0 1100 756" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot verified July 27, 2026, with five active review items and ten recently merged pull requests.</desc>
+  <desc id="desc">Tracker-style snapshot verified July 27, 2026, with one pull request awaiting feedback, four stale open pull requests, and ten recently merged pull requests.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -27,7 +27,7 @@
 
     <g transform="translate(58 168)" filter="url(#shadow)">
       <rect width="484" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
-      <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Active review queue</text>
+      <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Open PR queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
       <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
 
@@ -36,39 +36,39 @@
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">NVIDIA OO Agents #36</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">SSE headers for MCP authentication</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#1e3a8a"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">new PR</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">awaiting</text>
       </g>
 
       <g transform="translate(26 166)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">CrewAI #6094</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Human feedback final answer visibility</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#065f46"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#a7f3d0">approved</text>
+        <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 45d</text>
       </g>
 
       <g transform="translate(26 256)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for mutation</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#075985"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">review wait</text>
+        <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 51d</text>
       </g>
 
       <g transform="translate(26 346)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">dprint TS #800</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#4c1d95"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 51d</text>
       </g>
 
       <g transform="translate(26 436)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">Awesome MCP Security #124</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">MCP-Guard security tooling directory entry</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#4c1d95"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#c4b5fd">in review</text>
+        <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 109d</text>
       </g>
     </g>
 
