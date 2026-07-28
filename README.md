@@ -68,6 +68,7 @@ Status snapshot checked with GitHub CLI on July 28, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
+| Open | [NVIDIA OO Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | [#42](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/42) preserve sandbox REPL assignments after recoverable cell exits | Open, mergeable; signed and DCO-compliant contributor commit GitHub-verified; awaiting maintainer review |
 | Open, stale | [CrewAI](https://github.com/crewAIInc/crewAI) | [#6094](https://github.com/crewAIInc/crewAI/pull/6094) human feedback final answer visibility | Open, behind base; stale bot flagged July 25 after 45 days without activity; automated review approved; GitGuardian green |
 | Open, stale | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open; no activity since June 6; maintainer review required; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked |
 | Open, stale | [Deno / dprint TypeScript plugin](https://github.com/dprint/dprint-plugin-typescript) | [#800](https://github.com/dprint/dprint-plugin-typescript/pull/800) preserve Markdown hard breaks in JSDoc formatting for Deno issue [#31831](https://github.com/denoland/deno/issues/31831) | Open, mergeable; no activity since June 6; maintainer review pending |

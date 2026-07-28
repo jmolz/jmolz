@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="756" viewBox="0 0 1100 756" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot verified July 28, 2026, with four stale open pull requests and eleven recently merged pull requests.</desc>
+  <desc id="desc">Tracker-style snapshot verified July 28, 2026, with one active and four stale open pull requests plus eleven recently merged pull requests.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -29,9 +29,17 @@
       <rect width="484" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Open PR queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">4 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
 
-      <g transform="translate(26 86)">
+      <g transform="translate(26 78)">
+        <rect width="432" height="50" rx="14" fill="#111827" stroke="#2563eb"/>
+        <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">NVIDIA OO Agents #42</text>
+        <text x="16" y="38" font-size="11" fill="#cbd5e1">Sandbox REPL state after cell exits</text>
+        <rect x="316" y="14" width="94" height="22" rx="11" fill="#1e3a8a"/>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">in review</text>
+      </g>
+
+      <g transform="translate(26 174)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">CrewAI #6094</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Human feedback final answer visibility</text>
@@ -39,7 +47,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 45d</text>
       </g>
 
-      <g transform="translate(26 206)">
+      <g transform="translate(26 270)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for mutation</text>
@@ -47,7 +55,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 51d</text>
       </g>
 
-      <g transform="translate(26 326)">
+      <g transform="translate(26 366)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">dprint TS #800</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
@@ -55,7 +63,7 @@
         <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 51d</text>
       </g>
 
-      <g transform="translate(26 446)">
+      <g transform="translate(26 462)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">Awesome MCP Security #124</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">MCP-Guard security tooling directory entry</text>
