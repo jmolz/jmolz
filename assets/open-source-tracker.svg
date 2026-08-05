@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="756" viewBox="0 0 1100 756" role="img" aria-labelledby="title desc">
   <title id="title">Open source work tracker</title>
-  <desc id="desc">Tracker-style snapshot verified July 30, 2026, with one active and four stale open pull requests plus eleven recently merged pull requests.</desc>
+  <desc id="desc">Tracker-style snapshot verified August 5, 2026, with four stale open pull requests plus twelve recently merged pull requests.</desc>
   <defs>
     <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#020617"/>
@@ -29,46 +29,38 @@
       <rect width="484" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Open PR queue</text>
       <rect x="330" y="24" width="126" height="28" rx="14" fill="#1e3a8a"/>
-      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">5 open PRs</text>
+      <text x="393" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#bfdbfe">4 open PRs</text>
 
       <g transform="translate(26 78)">
-        <rect width="432" height="50" rx="14" fill="#111827" stroke="#2563eb"/>
-        <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">NVIDIA OO Agents #42</text>
-        <text x="16" y="38" font-size="11" fill="#cbd5e1">Sandbox REPL state after cell exits</text>
-        <rect x="316" y="14" width="94" height="22" rx="11" fill="#1e3a8a"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#bfdbfe">in review</text>
-      </g>
-
-      <g transform="translate(26 174)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">CrewAI #6094</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Human feedback final answer visibility</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 50d</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 56d</text>
       </g>
 
-      <g transform="translate(26 270)">
+      <g transform="translate(26 174)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">AWS IAM #227</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">Read-only MCP guardrail for mutation</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 53d</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 59d</text>
       </g>
 
-      <g transform="translate(26 366)">
+      <g transform="translate(26 270)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">dprint TS #800</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">JSDoc Markdown hard-break preservation</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 53d</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 59d</text>
       </g>
 
-      <g transform="translate(26 462)">
+      <g transform="translate(26 366)">
         <rect width="432" height="50" rx="14" fill="#111827" stroke="#334155"/>
         <text x="16" y="20" font-size="14" font-weight="850" fill="#f8fafc">Awesome MCP Security #124</text>
         <text x="16" y="38" font-size="11" fill="#cbd5e1">MCP-Guard security tooling directory entry</text>
         <rect x="316" y="14" width="94" height="22" rx="11" fill="#78350f"/>
-        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 112d</text>
+        <text x="363" y="29" text-anchor="middle" font-size="10" font-weight="850" fill="#fde68a">stale 118d</text>
       </g>
     </g>
 
@@ -76,12 +68,12 @@
       <rect width="472" height="544" rx="22" fill="#0f172a" stroke="#334155"/>
       <text x="26" y="42" font-size="18" font-weight="850" fill="#f8fafc">Merged patch train</text>
       <rect x="328" y="24" width="118" height="28" rx="14" fill="#064e3b"/>
-      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">11 merged PRs</text>
+      <text x="387" y="43" text-anchor="middle" font-size="12" font-weight="850" fill="#a7f3d0">12 merged PRs</text>
 
       <g transform="translate(26 78)">
         <rect width="420" height="50" rx="14" fill="#111827" stroke="#334155"/>
-        <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">NVIDIA OO Agents #36</text>
-        <text x="18" y="40" font-size="12" fill="#cbd5e1">SSE MCP authentication headers</text>
+        <text x="18" y="22" font-size="15" font-weight="850" fill="#f8fafc">NVIDIA OO Agents #36 #42</text>
+        <text x="18" y="40" font-size="12" fill="#cbd5e1">SSE MCP auth headers; sandbox REPL state</text>
       </g>
 
       <g transform="translate(26 154)">

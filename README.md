@@ -64,16 +64,15 @@ I am currently focused on **full-stack software engineering, AI SaaS platforms, 
   <img width="100%" alt="Open source tracker showing open pull request queue and merged patch train" src="./assets/open-source-tracker.svg" />
 </p>
 
-Status snapshot checked with GitHub CLI on July 30, 2026.
+Status snapshot checked with GitHub CLI on August 5, 2026.
 
 | Lane | Project | Work item | Status |
 | --- | --- | --- | --- |
-| Open | [NVIDIA OO Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | [#42](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/42) preserve sandbox REPL assignments after recoverable cell exits | Open, mergeable; signed and DCO-compliant contributor commit GitHub-verified; awaiting maintainer review |
 | Open, stale | [CrewAI](https://github.com/crewAIInc/crewAI) | [#6094](https://github.com/crewAIInc/crewAI/pull/6094) human feedback final answer visibility | Open, behind base; stale bot flagged July 25 after 45 days without activity; automated review approved; GitGuardian green |
 | Open, stale | [AWS IAM Policy Autopilot](https://github.com/awslabs/iam-policy-autopilot) | [#227](https://github.com/awslabs/iam-policy-autopilot/pull/227) read-only MCP server guardrail for IAM policy mutation | Open; no activity since June 6; maintainer review required; issue [#92](https://github.com/awslabs/iam-policy-autopilot/issues/92) linked |
 | Open, stale | [Deno / dprint TypeScript plugin](https://github.com/dprint/dprint-plugin-typescript) | [#800](https://github.com/dprint/dprint-plugin-typescript/pull/800) preserve Markdown hard breaks in JSDoc formatting for Deno issue [#31831](https://github.com/denoland/deno/issues/31831) | Open, mergeable; no activity since June 6; maintainer review pending |
 | Open, stale | [Awesome MCP Security](https://github.com/Puliczek/awesome-mcp-security) | [#124](https://github.com/Puliczek/awesome-mcp-security/pull/124) add MCP-Guard to the security tooling directory | Open, mergeable; no activity since April 9; maintainer review pending |
-| Merged | [NVIDIA OO Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | [#36](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/36) forward authentication headers through the SSE MCP transport | Merged 2026-07-28 by maintainer Ricardo Silveira Cabral; contributor and merge commits GitHub-verified |
+| Merged | [NVIDIA OO Agents](https://github.com/NVIDIA-NeMo/labs-OO-Agents) | [#36](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/36) forward authentication headers through the SSE MCP transport; [#42](https://github.com/NVIDIA-NeMo/labs-OO-Agents/pull/42) preserve sandbox REPL state after recoverable cell exits | Merged 2026-07-28 (#36) and 2026-08-04 (#42) by maintainer Ricardo Silveira Cabral; contributor and merge commits GitHub-verified |
 | Merged | [Pinecone MCP](https://github.com/pinecone-io/pinecone-mcp) | [#89](https://github.com/pinecone-io/pinecone-mcp/pull/89) correct the `upsert-records` schema for Claude tools | Merged 2026-07-15 after maintainer approval; Cursor Bugbot and GitGuardian checks green |
 | Merged | [Puppeteer](https://github.com/puppeteer/puppeteer) | [#15075](https://github.com/puppeteer/puppeteer/pull/15075) page-level locale emulation across CDP and WebDriver BiDi, closing issue [#11303](https://github.com/puppeteer/puppeteer/issues/11303) | Merged 2026-06-11 |
 | Merged | [TrustGraph](https://github.com/trustgraph-ai/trustgraph) | [#977](https://github.com/trustgraph-ai/trustgraph/pull/977) reject invalid PDF decoder input for issue [#949](https://github.com/trustgraph-ai/trustgraph/issues/949) | Merged 2026-06-09 |
